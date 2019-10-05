@@ -1,6 +1,6 @@
 /*
 *Autor: Angela Monreal
-*Fecha: 27/09/19
+*Fecha: 04/10/19
 *Grupo: 006
 *Horario: Viernes 7:00 a.m. - 9:00 a.m
 *Matricula: 1848122
@@ -44,7 +44,7 @@ for(i=0; i<6; i++){                                         //for anidado para a
 			}
 		}
 	}
-	
+															//Imprimir el valor del array
 	printf("El empleado numero 3 de la oficina numero 7 del edificio numero 2 ha vendido %d unidades\n",ventasEmpleadoOficinaEdificio[3][7][1]);
 	
 	system("pause");
